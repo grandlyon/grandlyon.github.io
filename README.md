@@ -1,4 +1,4 @@
-![Grand Lyon](Images/Logo_GL_couleur_72.jpg)
+![Grand Lyon](Logo_GL_couleur_72.jpg)
 
 Forge logicielle de la Métropole de Lyon
 ========================================
